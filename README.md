@@ -1,2 +1,3 @@
-# tx_trm
-Tutaj będą rzeczy z 5 dni Matrixa
+# Data Workshops
+5 days challenge - getting familiar with Colab, git recap, using Google Data Search and data.world API.
+Playing around with Men's Shoes Prices dataset, feature engineering and building simple model.
